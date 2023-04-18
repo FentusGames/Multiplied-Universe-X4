@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<xml version="1.0" encoding="utf-8">
 <content id="Multiplied Universe" name="Multiplied Universe" description="Multiplied Universe is a mod that multiplies the total amount of ships produced by each faction by x5." author="Fentus" version="1.0" date="2023-13-04" save="0" enabled="1">
 	<text language="7"  name="Multiplied Universe" description="Multiplied Universe is a mod that multiplies the total amount of ships produced by each faction by x5." author="Fentus" />
 	<text language="33" name="Multiplied Universe" description="Multiplied Universe is a mod that multiplies the total amount of ships produced by each faction by x5." author="Fentus" />
