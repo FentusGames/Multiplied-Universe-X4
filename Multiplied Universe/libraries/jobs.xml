@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8">?>
+<diff>
+	<replace sel="/jobs/job[@id='argon_bio_trader_l']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='argon_bio_trader_l']/quota/@cluster=">4*5</replace>
+	<replace sel="/jobs/job[@id='argon_bio_trader_m']/quota/@galaxy=">30*5</replace>
+	<replace sel="/jobs/job[@id='argon_bio_trader_m']/quota/@cluster=">8*5</replace>
+	<replace sel="/jobs/job[@id='argon_bio_trader_m']/quota/@sector=">6*5</replace>
+	<replace sel="/jobs/job[@id='argon_food_trader_s']/quota/@galaxy=">35*5</replace>
+	<replace sel="/jobs/job[@id='argon_food_trader_s']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='argon_food_trader_s']/quota/@sector=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_medical_trader_s']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_medical_trader_s']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_energycell_trader_l']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_energycell_trader_l']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_energycell_trader_m']/quota/@galaxy=">25*5</replace>
+	<replace sel="/jobs/job[@id='argon_energycell_trader_m']/quota/@cluster=">7*5</replace>
+	<replace sel="/jobs/job[@id='argon_energycell_trader_m']/quota/@sector=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_energycell_trader_s']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_energycell_trader_s']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_equipment_trader_l']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_equipment_trader_l']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_equipment_trader_m']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='argon_equipment_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_equipment_trader_m']/quota/@sector=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_construction_trader_l']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_construction_trader_l']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_construction_trader_m']/quota/@galaxy=">18*5</replace>
+	<replace sel="/jobs/job[@id='argon_construction_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_ship_construction_trader_l']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_ship_construction_trader_m']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_ship_construction_trader_m']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedgas_trader_l']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedgas_trader_l']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedgas_trader_m']/quota/@galaxy=">18*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedgas_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedgas_trader_m']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedmineral_trader_l']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedmineral_trader_l']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedmineral_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedmineral_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedmineral_trader_m']/quota/@sector=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_l']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_l']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_l']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_m']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_m']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_s']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedmineral_trader_l']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedmineral_trader_l']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedmineral_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedmineral_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_refinedmineral_trader_m']/quota/@sector=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_l']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_l']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_l']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_m']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_m']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_s']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_s']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_tech_trader_s']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_water_trader_l']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_water_trader_l']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_water_trader_m']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='argon_water_trader_m']/quota/@cluster=">4*5</replace>
+	<replace sel="/jobs/job[@id='argon_water_trader_m']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_stationtrader_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='argon_stationtrader_m']/quota/@maxgalaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='argon_stationtrader_l']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='argon_stationtrader_l']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_l_liquid']/quota/@galaxy=">2*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_m_liquid']/quota/@galaxy=">8*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_l_mineral']/quota/@galaxy=">8*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_m_mineral']/quota/@galaxy=">17*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_s_mineral']/quota/@galaxy=">7*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_l_ice']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_m_ice']/quota/@galaxy=">7*5</replace>	<replace sel="/jobs/job[@id='argon_carrier_patrol_xl_center_galaxy']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='argon_destroyer_patrol_l_sector']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='argon_destroyer_patrol_l_sector']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_destroyer_patrol_l_comp']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_destroyer_patrol_l_comp']/quota/@maxgalaxy=">11*5</replace>
+	<replace sel="/jobs/job[@id='argon_destroyer_patrol_l_comp']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_destroyer_patrol_l_comp_mission']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_destroyer_patrol_l_comp_mission']/quota/@maxgalaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_destroyer_patrol_l_comp_mission']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_frigate_patrol_m_sector_exp']/quota/@galaxy=">35*5</replace>
+	<replace sel="/jobs/job[@id='argon_frigate_patrol_m_sector_exp']/quota/@maxgalaxy=">90*5</replace>
+	<replace sel="/jobs/job[@id='argon_frigate_patrol_m_sector_exp']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_frigate_patrol_m_sector_exp_mission']/quota/@galaxy=">20*5</replace>
+	<replace sel="/jobs/job[@id='argon_frigate_patrol_m_sector_exp_mission']/quota/@maxgalaxy=">20*5</replace>
+	<replace sel="/jobs/job[@id='argon_frigate_patrol_m_sector_exp_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_dronecarrier_patrol_m_sector']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='argon_dronecarrier_patrol_m_sector']/quota/@maxgalaxy=">20*5</replace>
+	<replace sel="/jobs/job[@id='argon_dronecarrier_patrol_m_sector']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_dronecarrier_patrol_m_sector_mission']/quota/@galaxy=">4*5</replace>
+	<replace sel="/jobs/job[@id='argon_dronecarrier_patrol_m_sector_mission']/quota/@maxgalaxy=">4*5</replace>
+	<replace sel="/jobs/job[@id='argon_dronecarrier_patrol_m_sector_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_fighter_patrol_s_zone']/quota/@galaxy=">30*5</replace>
+	<replace sel="/jobs/job[@id='argon_fighter_patrol_s_zone']/quota/@maxgalaxy=">50*5</replace>
+	<replace sel="/jobs/job[@id='argon_fighter_patrol_s_zone']/quota/@zone=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_scout_patrol_s']/quota/@galaxy=">12*5</replace>
+	<replace sel="/jobs/job[@id='argon_scout_patrol_s']/quota/@maxgalaxy=">24*5</replace>
+	<replace sel="/jobs/job[@id='argon_scout_patrol_s']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_police_patrol_s']/quota/@galaxy=">60*5</replace>
+	<replace sel="/jobs/job[@id='argon_police_patrol_s']/quota/@sector=">3*5</replace>	<replace sel="/jobs/job[@id='argon_destroyer_escort_l']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='argon_frigate_escort_m']/quota/@wing=">3*5</replace>	<replace sel="/jobs/job[@id='argon_fighter_escort_s_carrier']/quota/@wing=">25*5</replace>	<replace sel="/jobs/job[@id='argon_fighter_escort_s_frigate']/quota/@wing=">4*5</replace>	<replace sel="/jobs/job[@id='argon_fighter_escort_s_patrol']/quota/@wing=">3*5</replace>	<replace sel="/jobs/job[@id='argon_resupplier_escort_xl']/quota/@wing=">1*5</replace>	<replace sel="/jobs/job[@id='argon_miningfleet_m_solid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_miningfleet_m_solid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_miningfleet_m_liquid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='argon_miningfleet_m_liquid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_miningfleet_ml_solid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_miningfleet_ml_solid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_miningfleet_ml_liquid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_miningfleet_ml_liquid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_fighter_escort_s_miningfleet']/quota/@wing=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_fighter_escort_s_miningfleet']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_construction_vessel_xl']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='argon_construction_vessel_xl']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='argon_construction_vessel_xl_playeronly']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='argon_construction_vessel_xl_playeronly']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='argon_resupplier_xl']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='argon_resourcescout_s_deepspace_single']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_resourcescout_s_deepspace_single']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_ml_solid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_ml_liquid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_ml_solid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_ml_liquid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_l_solid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='argon_free_miner_l_liquid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='argon_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='argon_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='argon_staticdefense_minelayer_s']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='argon_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_bio_trader_l']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='antigone_bio_trader_l']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_bio_trader_m']/quota/@galaxy=">18*5</replace>
+	<replace sel="/jobs/job[@id='antigone_bio_trader_m']/quota/@cluster=">6*5</replace>
+	<replace sel="/jobs/job[@id='antigone_bio_trader_m']/quota/@sector=">4*5</replace>
+	<replace sel="/jobs/job[@id='antigone_food_trader_s']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='antigone_food_trader_s']/quota/@sector=">3*5</replace>
+	<replace sel="/jobs/job[@id='antigone_medical_trader_s']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='antigone_medical_trader_s']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_energycell_trader_l']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_energycell_trader_l']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_energycell_trader_m']/quota/@galaxy=">13*5</replace>
+	<replace sel="/jobs/job[@id='antigone_energycell_trader_m']/quota/@cluster=">5*5</replace>
+	<replace sel="/jobs/job[@id='antigone_energycell_trader_s']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='antigone_energycell_trader_s']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_equipment_trader_l']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_equipment_trader_l']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_equipment_trader_m']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='antigone_equipment_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='antigone_equipment_trader_m']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_construction_trader_l']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_construction_trader_l']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_construction_trader_m']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='antigone_construction_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='antigone_ship_construction_trader_l']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_ship_construction_trader_m']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_ship_construction_trader_m']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_refinedgas_trader_l']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_refinedgas_trader_l']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_refinedgas_trader_m']/quota/@galaxy=">7*5</replace>
+	<replace sel="/jobs/job[@id='antigone_refinedgas_trader_m']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_refinedgas_trader_m']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_refinedmineral_trader_l']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_refinedmineral_trader_l']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_refinedmineral_trader_m']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='antigone_refinedmineral_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='antigone_refinedmineral_trader_m']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_tech_trader_l']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_tech_trader_l']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_tech_trader_m']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='antigone_tech_trader_m']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_tech_trader_m']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_stationtrader_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='antigone_stationtrader_m']/quota/@maxgalaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='antigone_stationtrader_l']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='antigone_stationtrader_l']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='antigone_free_miner_m_liquid']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='antigone_free_miner_m_mineral']/quota/@galaxy=">7*5</replace>	<replace sel="/jobs/job[@id='antigone_free_miner_m_ice']/quota/@galaxy=">2*5</replace>	<replace sel="/jobs/job[@id='antigone_destroyer_patrol_l_border_sector']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_destroyer_patrol_l_border_sector']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_destroyer_patrol_l_comp']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_destroyer_patrol_l_comp']/quota/@maxgalaxy=">11*5</replace>
+	<replace sel="/jobs/job[@id='antigone_destroyer_patrol_l_comp']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_destroyer_patrol_l_comp_mission']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_destroyer_patrol_l_comp_mission']/quota/@maxgalaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_destroyer_patrol_l_comp_mission']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_frigate_patrol_m_sector_exp']/quota/@galaxy=">35*5</replace>
+	<replace sel="/jobs/job[@id='antigone_frigate_patrol_m_sector_exp']/quota/@maxgalaxy=">90*5</replace>
+	<replace sel="/jobs/job[@id='antigone_frigate_patrol_m_sector_exp']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_frigate_patrol_m_sector_exp_mission']/quota/@galaxy=">20*5</replace>
+	<replace sel="/jobs/job[@id='antigone_frigate_patrol_m_sector_exp_mission']/quota/@maxgalaxy=">20*5</replace>
+	<replace sel="/jobs/job[@id='antigone_frigate_patrol_m_sector_exp_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_dronecarrier_patrol_m_sector']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='antigone_dronecarrier_patrol_m_sector']/quota/@maxgalaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='antigone_dronecarrier_patrol_m_sector']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_dronecarrier_patrol_m_sector_mission']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_dronecarrier_patrol_m_sector_mission']/quota/@maxgalaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_dronecarrier_patrol_m_sector_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_fighter_patrol_s_border_zone']/quota/@galaxy=">23*5</replace>
+	<replace sel="/jobs/job[@id='antigone_fighter_patrol_s_border_zone']/quota/@maxgalaxy=">38*5</replace>
+	<replace sel="/jobs/job[@id='antigone_fighter_patrol_s_border_zone']/quota/@zone=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_scout_patrol_s']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_scout_patrol_s']/quota/@maxgalaxy=">4*5</replace>
+	<replace sel="/jobs/job[@id='antigone_scout_patrol_s']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_police_patrol_s']/quota/@galaxy=">60*5</replace>
+	<replace sel="/jobs/job[@id='antigone_police_patrol_s']/quota/@sector=">2*5</replace>	<replace sel="/jobs/job[@id='antigone_destroyer_patrol_l_getsu_fune']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_destroyer_patrol_l_frontier_edge']/quota/@galaxy=">2*5</replace>	<replace sel="/jobs/job[@id='antigone_destroyer_patrol_l_atiyas_misfortune']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_destroyer_escort_l']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='antigone_frigate_escort_m']/quota/@wing=">3*5</replace>	<replace sel="/jobs/job[@id='antigone_fighter_escort_s_frigate']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='antigone_fighter_escort_s_patrol']/quota/@wing=">3*5</replace>	<replace sel="/jobs/job[@id='antigone_resupplier_escort_xl']/quota/@wing=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_miningfleet_m_solid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_miningfleet_m_solid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_miningfleet_m_liquid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='antigone_miningfleet_m_liquid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_miningfleet_ml_solid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='antigone_miningfleet_ml_solid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_miningfleet_ml_liquid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='antigone_miningfleet_ml_liquid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_fighter_escort_s_miningfleet']/quota/@wing=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_fighter_escort_s_miningfleet']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_construction_vessel_xl']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='antigone_construction_vessel_xl']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='antigone_construction_vessel_xl_playeronly']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='antigone_construction_vessel_xl_playeronly']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_resourcescout_s_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_free_miner_ml_solid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_free_miner_ml_liquid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_free_miner_ml_solid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_free_miner_ml_liquid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_free_miner_l_solid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_free_miner_l_liquid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='antigone_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='antigone_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='antigone_staticdefense_minelayer_s']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='antigone_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>	<replace sel="/jobs/job[@id='paranid_bio_trader_l']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='paranid_bio_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='paranid_bio_trader_m']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_bio_trader_m']/quota/@sector=">5*5</replace>
+	<replace sel="/jobs/job[@id='paranid_food_trader_s']/quota/@galaxy=">30*5</replace>
+	<replace sel="/jobs/job[@id='paranid_food_trader_s']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_food_trader_s']/quota/@sector=">5*5</replace>
+	<replace sel="/jobs/job[@id='paranid_medical_trader_s']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='paranid_medical_trader_s']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_energycell_trader_l']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='paranid_energycell_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='paranid_energycell_trader_m']/quota/@cluster=">8*5</replace>
+	<replace sel="/jobs/job[@id='paranid_energycell_trader_m']/quota/@sector=">4*5</replace>
+	<replace sel="/jobs/job[@id='paranid_energycell_trader_s']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='paranid_energycell_trader_s']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_equipment_trader_l']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='paranid_equipment_trader_m']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_equipment_trader_m']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_equipment_trader_m']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='paranid_construction_trader_l']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='paranid_construction_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='paranid_construction_trader_m']/quota/@cluster=">5*5</replace>	<replace sel="/jobs/job[@id='paranid_ship_construction_trader_l']/quota/@galaxy="1"> />	<replace sel="/jobs/job[@id='paranid_ship_construction_trader_m']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_ship_construction_trader_m']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_refinedgas_trader_l']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='paranid_refinedgas_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='paranid_refinedgas_trader_m']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_refinedgas_trader_m']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='paranid_refinedmineral_trader_l']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='paranid_refinedmineral_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='paranid_refinedmineral_trader_m']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_refinedmineral_trader_m']/quota/@sector=">5*5</replace>
+	<replace sel="/jobs/job[@id='paranid_tech_trader_l']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='paranid_tech_trader_l']/quota/@cluster=">6*5</replace>
+	<replace sel="/jobs/job[@id='paranid_tech_trader_l']/quota/@sector=">3*5</replace>
+	<replace sel="/jobs/job[@id='paranid_tech_trader_m']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='paranid_tech_trader_m']/quota/@cluster=">5*5</replace>
+	<replace sel="/jobs/job[@id='paranid_tech_trader_m']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_tech_trader_s']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_tech_trader_s']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_tech_trader_s']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='paranid_water_trader_l']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='paranid_water_trader_m']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_water_trader_m']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_water_trader_m']/quota/@sector=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_stationtrader_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='paranid_stationtrader_m']/quota/@maxgalaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='paranid_stationtrader_l']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='paranid_stationtrader_l']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_l_liquid']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_m_liquid']/quota/@galaxy=">4*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_l_mineral']/quota/@galaxy=">5*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_m_mineral']/quota/@galaxy=">9*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_s_mineral']/quota/@galaxy=">5*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_l_ice']/quota/@galaxy=">2*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_m_ice']/quota/@galaxy=">4*5</replace>	<replace sel="/jobs/job[@id='paranid_construction_vessel_xl']/quota/@galaxy=">9*5</replace>
+	<replace sel="/jobs/job[@id='paranid_construction_vessel_xl']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_construction_vessel_xl_playeronly']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='paranid_construction_vessel_xl_playeronly']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_resupplier_xl']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_carrier_patrol_xl_cluster']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_destroyer_patrol_l_sector_exp']/quota/@galaxy=">14*5</replace>
+	<replace sel="/jobs/job[@id='paranid_destroyer_patrol_l_sector_exp']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_destroyer_patrol_l_comp']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_destroyer_patrol_l_comp']/quota/@maxgalaxy=">11*5</replace>
+	<replace sel="/jobs/job[@id='paranid_destroyer_patrol_l_comp']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_destroyer_patrol_l_comp_mission']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_destroyer_patrol_l_comp_mission']/quota/@maxgalaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_destroyer_patrol_l_comp_mission']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_fighter_patrol_s_zone']/quota/@galaxy=">33*5</replace>
+	<replace sel="/jobs/job[@id='paranid_fighter_patrol_s_zone']/quota/@maxgalaxy=">54*5</replace>
+	<replace sel="/jobs/job[@id='paranid_fighter_patrol_s_zone']/quota/@zone=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_dronecarrier_patrol_m_sector']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='paranid_dronecarrier_patrol_m_sector']/quota/@maxgalaxy=">12*5</replace>
+	<replace sel="/jobs/job[@id='paranid_dronecarrier_patrol_m_sector']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_dronecarrier_patrol_m_sector_mission']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_dronecarrier_patrol_m_sector_mission']/quota/@maxgalaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_dronecarrier_patrol_m_sector_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_corvette_patrol_m_sector']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='paranid_corvette_patrol_m_sector']/quota/@maxgalaxy=">12*5</replace>
+	<replace sel="/jobs/job[@id='paranid_corvette_patrol_m_sector']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_corvette_patrol_m_sector_mission']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_corvette_patrol_m_sector_mission']/quota/@maxgalaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_corvette_patrol_m_sector_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_scout_patrol_s']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='paranid_scout_patrol_s']/quota/@maxgalaxy=">12*5</replace>
+	<replace sel="/jobs/job[@id='paranid_scout_patrol_s']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_police_patrol_s']/quota/@galaxy=">60*5</replace>
+	<replace sel="/jobs/job[@id='paranid_police_patrol_s']/quota/@sector=">3*5</replace>	<replace sel="/jobs/job[@id='paranid_destroyer_escort_l']/quota/@wing=">6*5</replace>	<replace sel="/jobs/job[@id='paranid_frigate_escort_m']/quota/@wing=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_fighter_escort_s_carrier']/quota/@wing=">24*5</replace>	<replace sel="/jobs/job[@id='paranid_fighter_escort_s_frigate']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='paranid_fighter_escort_s_patrol']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='paranid_resupplier_escort_xl']/quota/@wing=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_miningfleet_m_solid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_miningfleet_m_solid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_miningfleet_m_liquid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='paranid_miningfleet_m_liquid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_miningfleet_ml_solid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='paranid_miningfleet_ml_solid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_miningfleet_ml_liquid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='paranid_miningfleet_ml_liquid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_fighter_escort_s_miningfleet']/quota/@wing=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_fighter_escort_s_miningfleet']/quota/@variation=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_ml_solid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_ml_liquid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_ml_solid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_ml_liquid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_l_solid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='paranid_free_miner_l_liquid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='paranid_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='paranid_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='paranid_staticdefense_minelayer_s']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='paranid_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>	<replace sel="/jobs/job[@id='holyorder_bio_trader_l']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_bio_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_bio_trader_m']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_bio_trader_m']/quota/@sector=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_food_trader_s']/quota/@galaxy=">20*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_food_trader_s']/quota/@sector=">5*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_medical_trader_s']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_medical_trader_s']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_energycell_trader_l']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_energycell_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_energycell_trader_m']/quota/@cluster=">8*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_energycell_trader_m']/quota/@sector=">4*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_energycell_trader_s']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_energycell_trader_s']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_equipment_trader_l']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='holyorder_equipment_trader_m']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_equipment_trader_m']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_equipment_trader_m']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='holyorder_construction_trader_l']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='holyorder_construction_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_construction_trader_m']/quota/@cluster=">5*5</replace>	<replace sel="/jobs/job[@id='holyorder_ship_construction_trader_l']/quota/@galaxy="1"> />	<replace sel="/jobs/job[@id='holyorder_ship_construction_trader_m']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_ship_construction_trader_m']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_refinedgas_trader_l']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='holyorder_refinedgas_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_refinedgas_trader_m']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_refinedgas_trader_m']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='holyorder_refinedmineral_trader_l']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_refinedmineral_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_refinedmineral_trader_m']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_refinedmineral_trader_m']/quota/@sector=">5*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_tech_trader_l']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_tech_trader_l']/quota/@cluster=">6*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_tech_trader_l']/quota/@sector=">3*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_tech_trader_m']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_tech_trader_m']/quota/@cluster=">5*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_tech_trader_m']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_tech_trader_s']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_tech_trader_s']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_tech_trader_s']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='holyorder_water_trader_l']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_water_trader_m']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_water_trader_m']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_water_trader_m']/quota/@sector=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_stationtrader_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_stationtrader_m']/quota/@maxgalaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_stationtrader_l']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_stationtrader_l']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_l_liquid']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_m_liquid']/quota/@galaxy=">4*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_l_mineral']/quota/@galaxy=">5*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_m_mineral']/quota/@galaxy=">9*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_s_mineral']/quota/@galaxy=">5*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_l_ice']/quota/@galaxy=">2*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_m_ice']/quota/@galaxy=">4*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_construction_vessel_xl']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_construction_vessel_xl']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_construction_vessel_xl_playeronly']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_construction_vessel_xl_playeronly']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_destroyer_patrol_l_cluster_exp']/quota/@galaxy=">13*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_destroyer_patrol_l_cluster_exp']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_destroyer_patrol_l_comp']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_destroyer_patrol_l_comp']/quota/@maxgalaxy=">11*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_destroyer_patrol_l_comp']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_destroyer_patrol_l_comp_mission']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_destroyer_patrol_l_comp_mission']/quota/@maxgalaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_destroyer_patrol_l_comp_mission']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_fighter_patrol_s_zone']/quota/@galaxy=">50*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_fighter_patrol_s_zone']/quota/@maxgalaxy=">80*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_fighter_patrol_s_zone']/quota/@zone=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_dronecarrier_patrol_m_sector']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_dronecarrier_patrol_m_sector']/quota/@maxgalaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_dronecarrier_patrol_m_sector']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_dronecarrier_patrol_m_sector_mission']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_dronecarrier_patrol_m_sector_mission']/quota/@maxgalaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_dronecarrier_patrol_m_sector_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_corvette_patrol_m_sector']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_corvette_patrol_m_sector']/quota/@maxgalaxy=">9*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_corvette_patrol_m_sector']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_corvette_patrol_m_sector_mission']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_corvette_patrol_m_sector_mission']/quota/@maxgalaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_corvette_patrol_m_sector_mission']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_corvette_elite_m']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_scout_patrol_s']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_scout_patrol_s']/quota/@maxgalaxy=">12*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_scout_patrol_s']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_police_patrol_s']/quota/@galaxy=">60*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_police_patrol_s']/quota/@sector=">3*5</replace>	<replace sel="/jobs/job[@id='holyorder_destroyer_escort_l']/quota/@wing=">6*5</replace>	<replace sel="/jobs/job[@id='holyorder_frigate_escort_m']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='holyorder_corvette_escort_m']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='holyorder_corvette_escort_elite_m']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='holyorder_fighter_escort_s_frigate']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='holyorder_fighter_escort_s_patrol']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='holyorder_resupplier_escort_xl']/quota/@wing=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_miningfleet_m_solid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_miningfleet_m_solid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_miningfleet_m_liquid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_miningfleet_m_liquid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_miningfleet_ml_solid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_miningfleet_ml_solid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_miningfleet_ml_liquid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_miningfleet_ml_liquid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_fighter_escort_s_miningfleet']/quota/@wing=">1*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_fighter_escort_s_miningfleet']/quota/@variation=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_ml_solid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_ml_liquid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_ml_solid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_ml_liquid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_l_solid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_free_miner_l_liquid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='holyorder_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='holyorder_staticdefense_minelayer_s']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='holyorder_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>	<replace sel="/jobs/job[@id='trinity_bio_trader_l']/quota/@galaxy=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_bio_trader_m']/quota/@galaxy=">24*5</replace>
+	<replace sel="/jobs/job[@id='trinity_bio_trader_m']/quota/@sector=">10*5</replace>
+	<replace sel="/jobs/job[@id='trinity_food_trader_s']/quota/@galaxy=">40*5</replace>
+	<replace sel="/jobs/job[@id='trinity_food_trader_s']/quota/@sector=">5*5</replace>
+	<replace sel="/jobs/job[@id='trinity_medical_trader_s']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='trinity_medical_trader_s']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_energycell_trader_l']/quota/@galaxy=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_energycell_trader_m']/quota/@galaxy=">24*5</replace>
+	<replace sel="/jobs/job[@id='trinity_energycell_trader_m']/quota/@sector=">4*5</replace>	<replace sel="/jobs/job[@id='trinity_energycell_trader_s']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='trinity_energycell_trader_s']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_equipment_trader_l']/quota/@galaxy=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_equipment_trader_m']/quota/@galaxy=">16*5</replace>
+	<replace sel="/jobs/job[@id='trinity_equipment_trader_m']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_construction_trader_l']/quota/@galaxy=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_construction_trader_m']/quota/@galaxy=">24*5</replace>
+	<replace sel="/jobs/job[@id='trinity_construction_trader_m']/quota/@cluster=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_ship_construction_trader_l']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_ship_construction_trader_m']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='trinity_ship_construction_trader_m']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_refinedgas_trader_l']/quota/@galaxy=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_refinedgas_trader_m']/quota/@galaxy=">24*5</replace>
+	<replace sel="/jobs/job[@id='trinity_refinedgas_trader_m']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_refinedmineral_trader_l']/quota/@galaxy=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_refinedmineral_trader_m']/quota/@galaxy=">24*5</replace>
+	<replace sel="/jobs/job[@id='trinity_refinedmineral_trader_m']/quota/@sector=">5*5</replace>
+	<replace sel="/jobs/job[@id='trinity_tech_trader_l']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='trinity_tech_trader_l']/quota/@sector=">3*5</replace>
+	<replace sel="/jobs/job[@id='trinity_tech_trader_m']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='trinity_tech_trader_m']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='trinity_tech_trader_s']/quota/@galaxy=">16*5</replace>
+	<replace sel="/jobs/job[@id='trinity_tech_trader_s']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_water_trader_l']/quota/@galaxy=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_water_trader_m']/quota/@galaxy=">16*5</replace>
+	<replace sel="/jobs/job[@id='trinity_water_trader_m']/quota/@sector=">10*5</replace>	<replace sel="/jobs/job[@id='trinity_stationtrader_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='trinity_stationtrader_m']/quota/@maxgalaxy=">16*5</replace>	<replace sel="/jobs/job[@id='trinity_stationtrader_l']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='trinity_stationtrader_l']/quota/@maxgalaxy=">5*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_l_liquid']/quota/@galaxy=">2*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_m_liquid']/quota/@galaxy=">6*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_l_mineral']/quota/@galaxy=">8*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_m_mineral']/quota/@galaxy=">14*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_s_mineral']/quota/@galaxy=">8*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_l_ice']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_m_ice']/quota/@galaxy=">6*5</replace>	<replace sel="/jobs/job[@id='trinity_construction_vessel_xl']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='trinity_construction_vessel_xl']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_construction_vessel_xl_playeronly']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='trinity_construction_vessel_xl_playeronly']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_carrier_patrol_xl_cluster']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_destroyer_patrol_l_sector_exp_par']/quota/@galaxy=">14*5</replace>
+	<replace sel="/jobs/job[@id='trinity_destroyer_patrol_l_sector_exp_par']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_destroyer_patrol_l_cluster_exp_hop']/quota/@galaxy=">13*5</replace>
+	<replace sel="/jobs/job[@id='trinity_destroyer_patrol_l_cluster_exp_hop']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_destroyer_patrol_l_comp']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='trinity_destroyer_patrol_l_comp']/quota/@maxgalaxy=">17*5</replace>
+	<replace sel="/jobs/job[@id='trinity_destroyer_patrol_l_comp']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='trinity_destroyer_patrol_l_comp_mission']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='trinity_destroyer_patrol_l_comp_mission']/quota/@maxgalaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='trinity_destroyer_patrol_l_comp_mission']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_fighter_patrol_s_zone']/quota/@galaxy=">66*5</replace>
+	<replace sel="/jobs/job[@id='trinity_fighter_patrol_s_zone']/quota/@maxgalaxy=">107*5</replace>
+	<replace sel="/jobs/job[@id='trinity_fighter_patrol_s_zone']/quota/@zone=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_dronecarrier_patrol_m_sector']/quota/@galaxy=">7*5</replace>
+	<replace sel="/jobs/job[@id='trinity_dronecarrier_patrol_m_sector']/quota/@maxgalaxy=">20*5</replace>
+	<replace sel="/jobs/job[@id='trinity_dronecarrier_patrol_m_sector']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='trinity_dronecarrier_patrol_m_sector_mission']/quota/@galaxy=">7*5</replace>
+	<replace sel="/jobs/job[@id='trinity_dronecarrier_patrol_m_sector_mission']/quota/@maxgalaxy=">7*5</replace>
+	<replace sel="/jobs/job[@id='trinity_dronecarrier_patrol_m_sector_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_par']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_par']/quota/@maxgalaxy=">12*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_par']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_par_mission']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_par_mission']/quota/@maxgalaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_par_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_hop']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_hop']/quota/@maxgalaxy=">9*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_hop']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_hop_mission']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_hop_mission']/quota/@maxgalaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='trinity_corvette_patrol_m_sector_hop_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_scout_patrol_s']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='trinity_scout_patrol_s']/quota/@maxgalaxy=">19*5</replace>
+	<replace sel="/jobs/job[@id='trinity_scout_patrol_s']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='trinity_police_patrol_s']/quota/@galaxy=">60*5</replace>
+	<replace sel="/jobs/job[@id='trinity_police_patrol_s']/quota/@sector=">3*5</replace>	<replace sel="/jobs/job[@id='trinity_destroyer_escort_l_par']/quota/@wing=">6*5</replace>	<replace sel="/jobs/job[@id='trinity_destroyer_escort_l_hop']/quota/@wing=">6*5</replace>	<replace sel="/jobs/job[@id='trinity_frigate_escort_m']/quota/@wing=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_corvette_escort_m']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='trinity_fighter_escort_s_frigate']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='trinity_fighter_escort_s_carrier']/quota/@wing=">24*5</replace>	<replace sel="/jobs/job[@id='trinity_fighter_escort_s_patrol']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='trinity_resupplier_escort_xl']/quota/@wing=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_miningfleet_m_solid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='trinity_miningfleet_m_solid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_miningfleet_m_liquid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='trinity_miningfleet_m_liquid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_miningfleet_ml_solid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='trinity_miningfleet_ml_solid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_miningfleet_ml_liquid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='trinity_miningfleet_ml_liquid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_fighter_escort_s_miningfleet']/quota/@wing=">1*5</replace>
+	<replace sel="/jobs/job[@id='trinity_fighter_escort_s_miningfleet']/quota/@variation=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_ml_solid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_ml_liquid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_ml_solid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_ml_liquid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_l_solid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_free_miner_l_liquid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='trinity_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='trinity_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='trinity_staticdefense_minelayer_s']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='trinity_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>	<replace sel="/jobs/job[@id='teladi_resupplier_xl']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_bio_trader_l']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='teladi_bio_trader_l']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_bio_trader_m']/quota/@galaxy=">30*5</replace>
+	<replace sel="/jobs/job[@id='teladi_bio_trader_m']/quota/@cluster=">15*5</replace>
+	<replace sel="/jobs/job[@id='teladi_bio_trader_m']/quota/@sector=">10*5</replace>
+	<replace sel="/jobs/job[@id='teladi_food_trader_s']/quota/@galaxy=">55*5</replace>
+	<replace sel="/jobs/job[@id='teladi_food_trader_s']/quota/@sector=">5*5</replace>
+	<replace sel="/jobs/job[@id='teladi_medical_trader_s']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='teladi_medical_trader_s']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='teladi_energycell_trader_l']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='teladi_energycell_trader_l']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_energycell_trader_m']/quota/@galaxy=">40*5</replace>
+	<replace sel="/jobs/job[@id='teladi_energycell_trader_m']/quota/@cluster=">8*5</replace>
+	<replace sel="/jobs/job[@id='teladi_energycell_trader_m']/quota/@sector=">6*5</replace>
+	<replace sel="/jobs/job[@id='teladi_energycell_trader_s']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='teladi_energycell_trader_s']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='teladi_equipment_trader_l']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_equipment_trader_l']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_equipment_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='teladi_equipment_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_equipment_trader_m']/quota/@sector=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_trader_l']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_trader_l']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_trader_m']/quota/@galaxy=">30*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_trader_m']/quota/@cluster=">5*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_exporter_l']/quota/@galaxy=">4*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_exporter_l']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_exporter_m']/quota/@galaxy=">12*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_exporter_m']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_importer_l']/quota/@galaxy=">4*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_importer_l']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_importer_m']/quota/@galaxy=">12*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_importer_m']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='teladi_ship_construction_trader_l']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='teladi_ship_construction_trader_l']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='teladi_ship_construction_trader_m']/quota/@galaxy=">4*5</replace>
+	<replace sel="/jobs/job[@id='teladi_ship_construction_trader_m']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='teladi_refinedgas_trader_l']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='teladi_refinedgas_trader_l']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_refinedgas_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='teladi_refinedgas_trader_m']/quota/@cluster=">5*5</replace>
+	<replace sel="/jobs/job[@id='teladi_refinedgas_trader_m']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='teladi_refinedmineral_trader_l']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='teladi_refinedmineral_trader_l']/quota/@cluster=">3*5</replace>	<replace sel="/jobs/job[@id='teladi_refinedmineral_trader_m']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='teladi_refinedmineral_trader_m']/quota/@cluster=">5*5</replace>
+	<replace sel="/jobs/job[@id='teladi_refinedmineral_trader_m']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='teladi_tech_trader_l']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='teladi_tech_trader_l']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_tech_trader_l']/quota/@sector=">3*5</replace>	<replace sel="/jobs/job[@id='teladi_tech_trader_m']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='teladi_tech_trader_m']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_tech_trader_m']/quota/@sector=">3*5</replace>	<replace sel="/jobs/job[@id='teladi_tech_trader_s']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='teladi_tech_trader_s']/quota/@cluster=">5*5</replace>
+	<replace sel="/jobs/job[@id='teladi_tech_trader_s']/quota/@sector=">5*5</replace>	<replace sel="/jobs/job[@id='teladi_water_trader_l']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='teladi_water_trader_l']/quota/@cluster=">3*5</replace>	<replace sel="/jobs/job[@id='teladi_water_trader_m']/quota/@galaxy=">50*5</replace>
+	<replace sel="/jobs/job[@id='teladi_water_trader_m']/quota/@cluster=">10*5</replace>
+	<replace sel="/jobs/job[@id='teladi_water_trader_m']/quota/@sector=">10*5</replace>	<replace sel="/jobs/job[@id='teladi_scavenger_free_tug_m']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='teladi_stationtrader_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='teladi_stationtrader_m']/quota/@maxgalaxy=">15*5</replace>	<replace sel="/jobs/job[@id='teladi_stationtrader_l']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='teladi_stationtrader_l']/quota/@maxgalaxy=">5*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_l_liquid']/quota/@galaxy=">2*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_m_liquid']/quota/@galaxy=">8*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_l_mineral']/quota/@galaxy=">12*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_m_mineral']/quota/@galaxy=">17*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_s_mineral']/quota/@galaxy=">7*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_l_ice']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_m_ice']/quota/@galaxy=">7*5</replace>	<replace sel="/jobs/job[@id='teladi_construction_vessel_xl']/quota/@galaxy=">12*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_vessel_xl']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_construction_vessel_xl_playeronly']/quota/@galaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='teladi_construction_vessel_xl_playeronly']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_carrier_patrol_xl_cluster']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_destroyer_patrol_l_border_cluster']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='teladi_destroyer_patrol_l_border_cluster']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_fighter_patrol_s_zone_exp']/quota/@galaxy=">31*5</replace>
+	<replace sel="/jobs/job[@id='teladi_fighter_patrol_s_zone_exp']/quota/@maxgalaxy=">69*5</replace>
+	<replace sel="/jobs/job[@id='teladi_fighter_patrol_s_zone_exp']/quota/@zone=">2*5</replace>	<replace sel="/jobs/job[@id='teladi_fighter_patrol_s_zone_exp_mission']/quota/@galaxy=">31*5</replace>
+	<replace sel="/jobs/job[@id='teladi_fighter_patrol_s_zone_exp_mission']/quota/@maxgalaxy=">31*5</replace>
+	<replace sel="/jobs/job[@id='teladi_fighter_patrol_s_zone_exp_mission']/quota/@zone=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_scout_patrol_s']/quota/@galaxy=">12*5</replace>
+	<replace sel="/jobs/job[@id='teladi_scout_patrol_s']/quota/@maxgalaxy=">24*5</replace>
+	<replace sel="/jobs/job[@id='teladi_scout_patrol_s']/quota/@cluster=">2*5</replace>	<replace sel="/jobs/job[@id='teladi_destroyer_escort_l']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_destroyer_escort_l']/quota/@variation=">2*5</replace>	<replace sel="/jobs/job[@id='teladi_frigate_escort_m']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='teladi_frigate_escort_m']/quota/@variation=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_fighter_escort_s_carrier']/quota/@wing=">25*5</replace>	<replace sel="/jobs/job[@id='teladi_fighter_escort_s_frigate']/quota/@wing=">4*5</replace>
+	<replace sel="/jobs/job[@id='teladi_fighter_escort_s_frigate']/quota/@variation=">4*5</replace>	<replace sel="/jobs/job[@id='teladi_fighter_escort_s_patrol']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_fighter_escort_s_patrol']/quota/@variation=">3*5</replace>	<replace sel="/jobs/job[@id='teladi_resupplier_escort_xl']/quota/@wing=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_miningfleet_m_solid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='teladi_miningfleet_m_solid_small']/quota/@variation=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_miningfleet_m_liquid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='teladi_miningfleet_m_liquid_small']/quota/@variation=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_miningfleet_ml_solid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_miningfleet_ml_solid_large']/quota/@variation=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_miningfleet_ml_liquid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='teladi_miningfleet_ml_liquid_large']/quota/@variation=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_fighter_escort_s_miningfleet']/quota/@wing=">1*5</replace>
+	<replace sel="/jobs/job[@id='teladi_fighter_escort_s_miningfleet']/quota/@variation=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_resourcescout_s_deepspace_single']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='teladi_resourcescout_s_deepspace_single']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_ml_solid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_ml_liquid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_ml_solid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_ml_liquid_deepspace_smallgroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_l_solid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_free_miner_l_liquid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='teladi_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='teladi_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='teladi_staticdefense_minelayer_s']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='teladi_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>	<replace sel="/jobs/job[@id='ministry_tech_trader_m']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='ministry_tech_trader_m']/quota/@sector=">3*5</replace>	<replace sel="/jobs/job[@id='ministry_food_trader_s']/quota/@galaxy=">19*5</replace>
+	<replace sel="/jobs/job[@id='ministry_food_trader_s']/quota/@sector=">2*5</replace>	<replace sel="/jobs/job[@id='ministry_medical_trader_s']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='ministry_medical_trader_s']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='ministry_destroyer_patrol_l_border']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='ministry_destroyer_patrol_l_border2']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='ministry_destroyer_patrol_l_comp']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='ministry_destroyer_patrol_l_comp']/quota/@maxgalaxy=">11*5</replace>
+	<replace sel="/jobs/job[@id='ministry_destroyer_patrol_l_comp']/quota/@cluster=">2*5</replace>	<replace sel="/jobs/job[@id='ministry_destroyer_patrol_l_comp_mission']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='ministry_destroyer_patrol_l_comp_mission']/quota/@maxgalaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='ministry_destroyer_patrol_l_comp_mission']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='ministry_frigate_police_patrol_m']/quota/@galaxy=">75*5</replace>
+	<replace sel="/jobs/job[@id='ministry_frigate_police_patrol_m']/quota/@sector=">2*5</replace>	<replace sel="/jobs/job[@id='ministry_dronecarrier_patrol_m_sector']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='ministry_dronecarrier_patrol_m_sector']/quota/@maxgalaxy=">24*5</replace>
+	<replace sel="/jobs/job[@id='ministry_dronecarrier_patrol_m_sector']/quota/@sector=">2*5</replace>	<replace sel="/jobs/job[@id='ministry_dronecarrier_patrol_m_sector_mission']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='ministry_dronecarrier_patrol_m_sector_mission']/quota/@maxgalaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='ministry_dronecarrier_patrol_m_sector_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='ministry_destroyer_escort_l_reinforced']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='ministry_destroyer_escort_l_reinforced']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='ministry_destroyer_escort_l']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='ministry_destroyer_escort_l']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='ministry_frigate_escort_m']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='ministry_frigate_escort_m']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='ministry_fighter_escort_s_frigate']/quota/@wing=">5*5</replace>
+	<replace sel="/jobs/job[@id='ministry_fighter_escort_s_frigate']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='ministry_fighter_escort_s_patrol']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='ministry_fighter_escort_s_patrol']/quota/@variation=">3*5</replace>	<replace sel="/jobs/job[@id='ministry_resupplier_escort_xl']/quota/@wing=">1*5</replace>	<replace sel="/jobs/job[@id='ministry_construction_vessel_xl']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='ministry_construction_vessel_xl']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='ministry_construction_vessel_xl_playeronly']/quota/@galaxy=">5*5</replace>
+	<replace sel="/jobs/job[@id='ministry_construction_vessel_xl_playeronly']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='ministry_stationtrader_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='ministry_stationtrader_m']/quota/@maxgalaxy=">10*5</replace>
+	<replace sel="/jobs/job[@id='ministry_stationtrader_l']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='ministry_stationtrader_l']/quota/@maxgalaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='ministry_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='ministry_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='ministry_staticdefense_minelayer_s']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='ministry_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='xenon_free_miner_m_mineral']/quota/@galaxy=">56*5</replace>
+	<replace sel="/jobs/job[@id='xenon_free_miner_m_mineral']/quota/@cluster=">8*5</replace>
+	<replace sel="/jobs/job[@id='xenon_free_trader_m_energy']/quota/@galaxy=">42*5</replace>
+	<replace sel="/jobs/job[@id='xenon_free_trader_m_energy']/quota/@cluster=">6*5</replace>
+	<replace sel="/jobs/job[@id='xenon_carrier_patrol_xl_border_cluster']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='xenon_carrier_patrol_xl_border_cluster']/quota/@maxgalaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='xenon_carrier_patrol_xl_zone_defence']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='xenon_carrier_patrol_xl_zone_defence']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_cluster']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_cluster']/quota/@maxgalaxy=">18*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_cluster']/quota/@cluster=">3*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_cluster_mission']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_cluster_mission']/quota/@maxgalaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_cluster_mission']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_defence']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_defence']/quota/@cluster=">4*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_comp']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_comp']/quota/@maxgalaxy=">11*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_comp']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_comp_mission']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_comp_mission']/quota/@maxgalaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='xenon_destroyer_patrol_xl_comp_mission']/quota/@cluster=">1*5</replace>
+	<replace sel="/jobs/job[@id='xenon_fighter_patrol_s_zone']/quota/@galaxy=">59*5</replace>
+	<replace sel="/jobs/job[@id='xenon_fighter_patrol_s_zone']/quota/@maxgalaxy=">94*5</replace>
+	<replace sel="/jobs/job[@id='xenon_fighter_patrol_s_zone']/quota/@zone=">1*5</replace>	<replace sel="/jobs/job[@id='xenon_frigate_patrol_m_zone_everywhereelse']/quota/@galaxy=">29*5</replace>
+	<replace sel="/jobs/job[@id='xenon_frigate_patrol_m_zone_everywhereelse']/quota/@maxgalaxy=">69*5</replace>
+	<replace sel="/jobs/job[@id='xenon_frigate_patrol_m_zone_everywhereelse']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='xenon_frigate_patrol_m_zone_everywhereelse_mission']/quota/@galaxy=">13*5</replace>
+	<replace sel="/jobs/job[@id='xenon_frigate_patrol_m_zone_everywhereelse_mission']/quota/@maxgalaxy=">13*5</replace>
+	<replace sel="/jobs/job[@id='xenon_frigate_patrol_m_zone_everywhereelse_mission']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='xenon_scout_patrol_s']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='xenon_scout_patrol_s']/quota/@maxgalaxy=">16*5</replace>
+	<replace sel="/jobs/job[@id='xenon_scout_patrol_s']/quota/@cluster=">2*5</replace>	<replace sel="/jobs/job[@id='xenon_fighter_s_deepspace_single']/quota/@galaxy=">15*5</replace>	<replace sel="/jobs/job[@id='xenon_fighter_s_deepspace_group']/quota/@galaxy=">7*5</replace>	<replace sel="/jobs/job[@id='xenon_destroyer_escort_xl']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='xenon_frigate_escort_m']/quota/@wing=">3*5</replace>	<replace sel="/jobs/job[@id='xenon_fighter_escort_s_frigate']/quota/@wing=">4*5</replace>	<replace sel="/jobs/job[@id='xenon_fighter_escort_s_patrol']/quota/@wing=">2*5</replace>	<replace sel="/jobs/job[@id='xenon_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='xenon_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='xenon_staticdefense_minelayer_s']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='xenon_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>	<replace sel="/jobs/job[@id='khaak_fighter_escort_s']/quota/@wing=">4*5</replace>	<replace sel="/jobs/job[@id='khaak_fighter_s_deepspace_single']/quota/@galaxy=">15*5</replace>	<replace sel="/jobs/job[@id='khaak_fighter_s_deepspace_group']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_plunderer_l_cluster']/quota/@galaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_plunderer_l_cluster']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_scavenger_m_cluster']/quota/@galaxy=">15*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_scavenger_m_cluster']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_miningfleet_m_solid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_miningfleet_m_solid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_miningfleet_m_liquid_small']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_miningfleet_m_liquid_small']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_miningfleet_ml_solid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_miningfleet_ml_solid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_miningfleet_ml_liquid_large']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_miningfleet_ml_liquid_large']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_fighter_escort_s_miningfleet']/quota/@wing=">1*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_fighter_escort_s_miningfleet']/quota/@variation=">1*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_scavenger_sm_deepspace_single']/quota/@galaxy=">6*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_scavenger_sm_deepspace_single']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_resourcescout_sm_deepspace_single']/quota/@galaxy=">4*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_resourcescout_sm_deepspace_single']/quota/@cluster=">1*5</replace>	<replace sel="/jobs/job[@id='hatikvah_free_miner_ml_liquid_deepspace_single']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='hatikvah_free_miner_l_solid_deepspace_largegroup']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='hatikvah_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_staticdefense_minelayer_s']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='hatikvah_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_plunderer_l_cluster']/quota/@galaxy=">13*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_plunderer_l_cluster']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_plunderer_l_cluster_reduced']/quota/@galaxy=">1*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_plunderer_l_cluster_reduced']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_scavenger_m_cluster']/quota/@galaxy=">17*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_scavenger_m_cluster']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_plunderer_m_cluster']/quota/@galaxy=">9*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_plunderer_m_cluster']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_smuggler_s']/quota/@galaxy=">30*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_smuggler_s']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='scaleplate_mixed_trader_l']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='scaleplate_mixed_trader_m']/quota/@galaxy=">3*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_mixed_trader_m']/quota/@cluster=">2*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_mixed_trader_m']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='scaleplate_scavenger_sm_deepspace']/quota/@galaxy=">11*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_scavenger_sm_deepspace']/quota/@sector=">1*5</replace>	<replace sel="/jobs/job[@id='scaleplate_fighter_escort_s']/quota/@wing=">2*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_fighter_escort_s']/quota/@variation=">2*5</replace>	<replace sel="/jobs/job[@id='scaleplate_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='scaleplate_staticdefense_minelayer_s']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='scaleplate_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>	<replace sel="/jobs/job[@id='buc_patrol_m_hidden']/quota/@sector=">1*5</replace>
+	<replace sel="/jobs/job[@id='buc_patrol_m_hidden']/quota/@galaxy=">50*5</replace>	<replace sel="/jobs/job[@id='buc_patrol_s_hidden']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='buc_patrol_s_hidden']/quota/@galaxy=">50*5</replace>	<replace sel="/jobs/job[@id='buc_patrol_s_hidden_antisat']/quota/@sector=">7*5</replace>
+	<replace sel="/jobs/job[@id='buc_patrol_s_hidden_antisat']/quota/@galaxy=">50*5</replace>	<replace sel="/jobs/job[@id='buc_plunderer_m_hidden_op']/quota/@galaxy=">1*5</replace>	<replace sel="/jobs/job[@id='buc_plunderer_m_hidden']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='buc_plunderer_m_hidden']/quota/@galaxy=">50*5</replace>	<replace sel="/jobs/job[@id='buc_guerilla_m_cluster']/quota/@galaxy=">24*5</replace>
+	<replace sel="/jobs/job[@id='buc_guerilla_m_cluster']/quota/@sector=">3*5</replace>	<replace sel="/jobs/job[@id='buc_guerilla_infiltrator_s_cluster']/quota/@galaxy=">8*5</replace>
+	<replace sel="/jobs/job[@id='buc_guerilla_infiltrator_s_cluster']/quota/@sector=">2*5</replace>	<replace sel="/jobs/job[@id='buc_guerilla_escort_m']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='buc_guerilla_escort_m']/quota/@variation=">1*5</replace>	<replace sel="/jobs/job[@id='buc_guerilla_escort_s']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='buc_guerilla_escort_s']/quota/@variation=">3*5</replace>	<replace sel="/jobs/job[@id='buc_carrier_patrol_xl_cluster']/quota/@galaxy=">3*5</replace>	<replace sel="/jobs/job[@id='buc_patrol_m_sector']/quota/@galaxy=">9*5</replace>	<replace sel="/jobs/job[@id='buc_scout_s']/quota/@galaxy=">18*5</replace>
+	<replace sel="/jobs/job[@id='buc_scout_s']/quota/@sector=">3*5</replace>	<replace sel="/jobs/job[@id='buc_destroyer_escort_l']/quota/@wing=">4*5</replace>
+	<replace sel="/jobs/job[@id='buc_destroyer_escort_l']/quota/@variation=">2*5</replace>	<replace sel="/jobs/job[@id='buc_frigate_escort_m']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='buc_frigate_escort_m']/quota/@variation=">1*5</replace>	<replace sel="/jobs/job[@id='buc_fighter_escort_s_frigate']/quota/@wing=">3*5</replace>
+	<replace sel="/jobs/job[@id='buc_fighter_escort_s_frigate']/quota/@variation=">3*5</replace>
+	<replace sel="/jobs/job[@id='buc_fighter_escort_s_carrier']/quota/@wing=">18*5</replace>
+	<replace sel="/jobs/job[@id='buc_fighter_escort_s_carrier']/quota/@variation=">4*5</replace>	<replace sel="/jobs/job[@id='buc_resupplier_escort_xl']/quota/@wing=">1*5</replace>	<replace sel="/jobs/job[@id='buc_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='buc_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='buc_staticdefense_minelayer_s']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='buc_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>	<replace sel="/jobs/job[@id='alliance_staticdefense_engineer_m']/quota/@galaxy=">0*5</replace>
+	<replace sel="/jobs/job[@id='alliance_staticdefense_engineer_m']/quota/@maxgalaxy=">3*5</replace>	<replace sel="/jobs/job[@id='alliance_staticdefense_minelayer_s']/quota/@galaxy="0"> />
+	<replace sel="/jobs/job[@id='alliance_staticdefense_minelayer_s']/quota/@maxgalaxy=">2*5</replace>	<replace sel="/jobs/job[@id='masstraffic_argon_civilian']/quota/@sector=">1000*5</replace>	<replace sel="/jobs/job[@id='masstraffic_argon_police']/quota/@station=">5*5</replace>	<replace sel="/jobs/job[@id='masstraffic_argon_criminal']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='masstraffic_argon_criminal']/quota/@station=">1*5</replace>	<replace sel="/jobs/job[@id='masstraffic_argon_dockarea']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_argon_pier']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_argon_storage']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_argon_production']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_argon_buildmodule']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_argon_defencemodule']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_antigone_police']/quota/@station=">5*5</replace>	<replace sel="/jobs/job[@id='masstraffic_teladi_civilian']/quota/@sector=">1000*5</replace>	<replace sel="/jobs/job[@id='masstraffic_teladi_police']/quota/@station=">5*5</replace>	<replace sel="/jobs/job[@id='masstraffic_teladi_criminal']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='masstraffic_teladi_criminal']/quota/@station=">1*5</replace>	<replace sel="/jobs/job[@id='masstraffic_teladi_dockarea']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_teladi_pier']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_teladi_storage']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_teladi_production']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_teladi_buildmodule']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_teladi_defencemodule']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_paranid_civilian']/quota/@sector=">1000*5</replace>	<replace sel="/jobs/job[@id='masstraffic_paranid_police']/quota/@station=">5*5</replace>	<replace sel="/jobs/job[@id='masstraffic_holyorder_police']/quota/@station=">5*5</replace>	<replace sel="/jobs/job[@id='masstraffic_paranid_criminal']/quota/@sector=">2*5</replace>
+	<replace sel="/jobs/job[@id='masstraffic_paranid_criminal']/quota/@station=">1*5</replace>	<replace sel="/jobs/job[@id='masstraffic_paranid_dockarea']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_paranid_pier']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_paranid_storage']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_paranid_production']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_paranid_buildmodule']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_paranid_defencemodule']/quota/@station=">20*5</replace>	<replace sel="/jobs/job[@id='masstraffic_xenon_civilian']/quota/@sector=">1000*5</replace>	<replace sel="/jobs/job[@id='masstraffic_xenon_station']/quota/@station=">100*5</replace>	<replace sel="/jobs/job[@id='masstraffic_hab_arg_s_01']/quota/@station=">50*5</replace>	<replace sel="/jobs/job[@id='masstraffic_hab_arg_m_01']/quota/@station=">60*5</replace>	<replace sel="/jobs/job[@id='masstraffic_hab_arg_l_01']/quota/@station=">70*5</replace>	<replace sel="/jobs/job[@id='masstraffic_hab_tel_s_01']/quota/@station=">50*5</replace>	<replace sel="/jobs/job[@id='masstraffic_hab_tel_m_01']/quota/@station=">60*5</replace>	<replace sel="/jobs/job[@id='masstraffic_hab_tel_l_01']/quota/@station=">70*5</replace>	<replace sel="/jobs/job[@id='masstraffic_hab_par_s_01']/quota/@station=">50*5</replace>	<replace sel="/jobs/job[@id='masstraffic_hab_par_m_01']/quota/@station=">60*5</replace>	<replace sel="/jobs/job[@id='masstraffic_hab_par_l_01']/quota/@station=">70*5</replace>	<replace sel="/jobs/job[@id='masstraffic_effectzone']/quota/@zone=">2000*5</replace>
+</diff>
